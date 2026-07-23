@@ -2,14 +2,21 @@ target = args[0]
 output = "${args[0]}.md"
 touch output
 
+skip = ["README.md", "AI_TRANSLATION_GUIDE.md"]
+
 # First pass: check every file has a title
 for each file in target.tree:
+    if file.name in skip:
+        next
     if file.content.lines[0] does not match /^# /:
         warn "missing title: ${file.path}"
 
 # Second pass: concatenate with clear boundaries
 first = true
 for each file in target.tree:
+    if file.name in skip:
+        next
+
     title = file.content.lines[0]          # the # Heading line
     body  = file.content.lines[1..]        # everything after the heading
 
