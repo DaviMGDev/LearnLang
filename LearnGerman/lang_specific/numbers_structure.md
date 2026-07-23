@@ -1,87 +1,87 @@
-# Zahlenstruktur
+# Zahlenstruktur.
 
 Im Deutschen kommt die kleinere Zahl vor der größeren.
 
-einundzwanzig
-zweiundzwanzig
-dreiundzwanzig
-vierundzwanzig
-fünfundzwanzig
-sechsundzwanzig
-siebenundzwanzig
-achtundzwanzig
-neunundzwanzig
+einundzwanzig.
+zweiundzwanzig.
+dreiundzwanzig.
+vierundzwanzig.
+fünfundzwanzig.
+sechsundzwanzig.
+siebenundzwanzig.
+achtundzwanzig.
+neunundzwanzig.
 
-21
-22
-23
-24
-25
-26
-27
-28
-29
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
 
-einunddreißig
-zweiunddreißig
-dreiunddreißig
+einunddreißig.
+zweiunddreißig.
+dreiunddreißig.
 
-31
-32
-33
+31.
+32.
+33.
 
-einundvierzig
-zweiundvierzig
-dreiundvierzig
+einundvierzig.
+zweiundvierzig.
+dreiundvierzig.
 
-41
-42
-43
+41.
+42.
+43.
 
-einundfünfzig
-zweiundfünfzig
-dreiundfünfzig
+einundfünfzig.
+zweiundfünfzig.
+dreiundfünfzig.
 
-51
-52
-53
+51.
+52.
+53.
 
-einundsechzig
-zweiundsechzig
-dreiundsechzig
+einundsechzig.
+zweiundsechzig.
+dreiundsechzig.
 
-61
-62
-63
+61.
+62.
+63.
 
-einundsiebzig
-zweiundsiebzig
-dreiundsiebzig
+einundsiebzig.
+zweiundsiebzig.
+dreiundsiebzig.
 
-71
-72
-73
+71.
+72.
+73.
 
-einundachtzig
-zweiundachtzig
-dreiundachtzig
+einundachtzig.
+zweiundachtzig.
+dreiundachtzig.
 
-81
-82
-83
+81.
+82.
+83.
 
-einundneunzig
-zweiundneunzig
-dreiundneunzig
+einundneunzig.
+zweiundneunzig.
+dreiundneunzig.
 
-91
-92
-93
+91.
+92.
+93.
 
-hundert, zweihundert, dreihundert
+hundert, zweihundert, dreihundert.
 
-100, 200, 300
+100, 200, 300.
 
-hundertfünfundzwanzig
+hundertfünfundzwanzig.
 
-125
+125.
