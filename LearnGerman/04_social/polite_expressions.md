@@ -1,41 +1,41 @@
-# Höfliche Ausdrücke
+# Höfliche Ausdrücke.
 
-## Bitte und Danke
+## Bitte und Danke.
 
-bitte
-danke
-danke schön
-vielen Dank
-gern geschehen
-keine Ursache
+bitte.
+danke.
+danke schön.
+vielen Dank.
+gern geschehen.
+keine Ursache.
 
-bitte setzen Sie sich
-danke für Ihre Hilfe und Geduld
-vielen Dank für das schöne Geschenk
-gern geschehen, das war doch selbstverständlich
+bitte setzen Sie sich.
+danke für Ihre Hilfe und Geduld.
+vielen Dank für das schöne Geschenk.
+gern geschehen, das war doch selbstverständlich.
 
-## Entschuldigungen
+## Entschuldigungen.
 
-Entschuldigung
-es tut mir leid
-Verzeihung
-das macht nichts
-kein Problem
-schon gut
+Entschuldigung.
+es tut mir leid.
+Verzeihung.
+das macht nichts.
+kein Problem.
+schon gut.
 
-Entschuldigung, können Sie mir helfen
-es tut mir leid, das war mein Fehler
-Verzeihung, ich habe Sie nicht gesehen
-das macht nichts, alles in Ordnung
+Entschuldigung, können Sie mir helfen.
+es tut mir leid, das war mein Fehler.
+Verzeihung, ich habe Sie nicht gesehen.
+das macht nichts, alles in Ordnung.
 
-## Beim Essen und Trinken
+## Beim Essen und Trinken.
 
-guten Appetit
-zum Wohl
-Prost
-Mahlzeit
+guten Appetit.
+zum Wohl.
+Prost.
+Mahlzeit.
 
-guten Appetit und lass es dir schmecken
-zum Wohl auf deine Gesundheit
-Prost auf das neue Jahr
-Mahlzeit, wie war dein Tag
+guten Appetit und lass es dir schmecken.
+zum Wohl auf deine Gesundheit.
+Prost auf das neue Jahr.
+Mahlzeit, wie war dein Tag.

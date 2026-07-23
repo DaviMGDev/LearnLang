@@ -1,67 +1,67 @@
-# Aussprache
+# Aussprache.
 
-a
-Apfel, Tag, Vater, sagen
+a.
+Apfel, Tag, Vater, sagen.
 
-e
-Weg, leben, Meer, sehen
+e.
+Weg, leben, Meer, sehen.
 
-i
-bitte, singen, Bier, lieben
+i.
+bitte, singen, Bier, lieben.
 
-o
-Sonne, kommen, Brot, rot
+o.
+Sonne, kommen, Brot, rot.
 
-u
-Mutter, und, gut, suchen
+u.
+Mutter, und, gut, suchen.
 
-ä
-Mädchen, Bäcker, spät, erklärt
+ä.
+Mädchen, Bäcker, spät, erklärt.
 
-ö
-König, Löwe, schön, böse
+ö.
+König, Löwe, schön, böse.
 
-ü
-Brücke, müde, für, Tür
+ü.
+Brücke, müde, für, Tür.
 
-ch
-Nacht, Bach, noch, Buch
-ich, mich, rechnen, möchte
+ch.
+Nacht, Bach, noch, Buch.
+ich, mich, rechnen, möchte.
 
-r
-rot, Brot, Bauer, für
+r.
+rot, Brot, Bauer, für.
 
-v
-Vogel, Vater, voll
+v.
+Vogel, Vater, voll.
 
-w
-Wasser, warm, Winter, wie
+w.
+Wasser, warm, Winter, wie.
 
-ß
-Straße, groß, Fuß, heißen
+ß.
+Straße, groß, Fuß, heißen.
 
-z
-Katze, kurz, zwei, Zimmer
+z.
+Katze, kurz, zwei, Zimmer.
 
-s
-singen, Sonne, sauber, sehen
+s.
+singen, Sonne, sauber, sehen.
 
-st
-Straße, stehen, Stunde, verstehen
+st.
+Straße, stehen, Stunde, verstehen.
 
-sp
-sprechen, Sport, spät, versprechen
+sp.
+sprechen, Sport, spät, versprechen.
 
-lang und kurz
+lang und kurz.
 
-bieten, bitten
-Ofen, offen
-Schlaf, schlaff
+bieten, bitten.
+Ofen, offen.
+Schlaf, schlaff.
 
-der Ton liegt meist auf der ersten Silbe
+der Ton liegt meist auf der ersten Silbe.
 
-sagen, kommen, verstehen
+sagen, kommen, verstehen.
 
-ich spreche ein bisschen Deutsch
-die Straße ist lang
-das Wetter ist schön heute
+ich spreche ein bisschen Deutsch.
+die Straße ist lang.
+das Wetter ist schön heute.
