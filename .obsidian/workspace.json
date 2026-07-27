@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LearnLang.md",
+                "file": "SPEC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LearnLang"
+              "title": "SPEC"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "b903bceb39c05747",
   "lastOpenFiles": [
-    "LearnGerman/01_numbers/00_to_10.md",
     "LearnLang.md",
+    "SPEC.md",
+    "LearnGerman/01_numbers/00_to_10.md",
     "LearnGerman/00_foundation/pronunciation.md",
     "LearnGerman/00_foundation/alphabet.md",
     "LearnGerman.md",
