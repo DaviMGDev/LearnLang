@@ -386,25 +386,7 @@ Scaffold a new `Learn<Language>/` directory from a canonical English template. T
 
 ---
 
-## 9. Migration Path
-
-### From current state to v1
-
-| Step | Change | Impact |
-|------|--------|--------|
-| 1 | Create `./AGENTS.md` at repo root with AI scaffolding instructions | Single source of truth for agent behaviour |
-| 2 | Add MKF‑compliant YAML frontmatter to every `.md` file | All existing files need frontmatter added |
-| 3 | Rewrite `LearnGerman/README.md` and `LearnEsperanto/README.md` in the target language | `README.md` becomes a proper course introduction |
-| 4 | Restructure `Learn<Lang>/` to use `A1/` subfolder and the 19‑step progression | Old flat 00‑07 structure moves under `A1/` with the new topic mapping |
-| 5 | Add `index.md` files to section folders for MKF compound‑node compliance | Each A1 section folder gets an overview |
-| 6 | Create `tools/compile` as a proper CLI | `compiler.sh` remains but the new CLI is the recommended path |
-| 7 | Create `tools/build-pdf` | New tool |
-| 8 | Create `skills/learnlang-scaffold` | New agent skill |
-| 9 | Update `README.md` at project root | Document the new structure |
-
----
-
-## 10. Stakeholders
+## 9. Stakeholders
 
 | Role | Interest | Influence | Key concerns |
 |------|----------|-----------|--------------|
@@ -414,7 +396,7 @@ Scaffold a new `Learn<Language>/` directory from a canonical English template. T
 
 ---
 
-## 11. Design Decisions
+## 10. Design Decisions
 
 ### ADR‑worthy decisions (to be formalised in `adr/`)
 
